@@ -8,8 +8,7 @@ body{
 }
 
 header{
-    background: url(img/fondo\ 1.png) no-repeat bottom;
-    background-size: cover;
+    background-color:chocolate;
     color: black;
     padding: 1rem 1rem;
     padding:  5rem 1rem;
@@ -68,4 +67,8 @@ footer a:hover{
 
 .primero {
     text-align: center;
+}
+
+#fondotitulo{
+    background-image: url(img/fondo\ 1.png);
 }
